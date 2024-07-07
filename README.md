@@ -1,5 +1,5 @@
-## "Hello World" 👋
-I'm Lydia
+## "Hello World" I'm Lydia 👋
+- [LinkedIn](https://www.linkedin.com/in/lylrg/)
 
 <!--
 **Lylrg/Lylrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
