@@ -4,6 +4,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lylrg/)](https://www.linkedin.com/in/lylrg)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lydia.aa@hotmail.es)](mailto:lydia.aa@hotmail.es)
 
+## 🚀 About Me
+I'm a data scientist and machine learning enthusiast with a passion for uncovering insights from data and building predictive models. I recently completed an intensive bootcamp where I honed my skills in data science, machine learning, and data visualization.
+
+## 🛠️ Skills
+- **Languages**: Python, SQL
+- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, Plotly
+- **Specialties**: Data Cleaning, Exploratory Data Analysis (EDA), Machine Learning, Deep Learning, Data Visualization
+
+
+
+
 ### 🖥️ My Setup
 ![Static Badge](https://img.shields.io/badge/macOS-555555?style=flat-square&logo=macOS)
 ![Static Badge](https://img.shields.io/badge/Terminal-555555?style=flat-square)
@@ -11,8 +22,8 @@
 ![Static Badge](https://img.shields.io/badge/Spotify-555555?style=flat-square&logo=Spotify&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/Colab-555555?style=flat-square&logo=Google%20colab&logoColor=yellow)
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Lylrg)
 
+![](https://komarev.com/ghpvc/?username=Lylrg)
 
 
 <!--
